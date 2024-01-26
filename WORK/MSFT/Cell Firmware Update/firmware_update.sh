@@ -31,6 +31,10 @@ else
 fi
 }
 download_firmware() {
+src_IP="54.208.34.191"
+user="root"
+pass="~GoGear1!"
+path="/mnt/nvram/cellfw/"
 echo "running firmware download"
 }
 
